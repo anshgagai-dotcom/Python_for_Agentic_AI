@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL file
 __pycache__/
 *.py[cod]
 *$py.class
@@ -7,7 +7,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Editor / IDE
-.vscode/
+.vscode/    
 .idea/
 
 # Environment variables
