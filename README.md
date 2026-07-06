@@ -14,7 +14,8 @@ A structured workspace for daily learning, practice, homework, projects, and pro
 |---|---|
 | **Name** | Ansh Raju Gandhare |
 | **Role** | Python for Agentic AI Intern |
-| **Repository** | [Python_Class](https://github.com/) |
+| **GitHub** | [@anshgagai-dotcom](https://github.com/anshgagai-dotcom) |
+| **Repository** | [anshgagai-dotcom/Python_Class](https://github.com/anshgagai-dotcom/Python_Class) |
 
 ---
 
@@ -140,8 +141,8 @@ See **[Progress.md](Progress.md)** for the full weekly checklist.
 ## Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/<your-username>/Python_Class.git
+# Clone the repository (SSH)
+git clone git@github.com:anshgagai-dotcom/Python_Class.git
 cd Python_Class
 
 # Create a virtual environment (recommended)
