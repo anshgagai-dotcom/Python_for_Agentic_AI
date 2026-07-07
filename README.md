@@ -1,71 +1,74 @@
-# 🐍 Python_Class
+# 🐍 Python for Agentic AI
 
-> **Python for Agentic AI Internship Repository**
-
-A structured repository to document my complete learning journey throughout the **Python for Agentic AI Internship**. This repository contains my homework, practice programs, mini projects, class notes, and professional YouTube video reviews.
+> A structured repository documenting my complete learning journey during the **Python for Agentic AI Internship**.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 **Name:** Ansh Raju Gandhare
 
 **Role:** Python for Agentic AI Intern
 
+**Focus Areas:**
+- Python Programming
+- Problem Solving
+- Data Analytics
+- Generative AI
+- Agentic AI
+- Software Development
+
 **GitHub:** https://github.com/anshgagai-dotcom
 
 ---
 
-# 🎯 Internship Objective
+# 🎯 Repository Objective
 
-The purpose of this repository is to maintain a structured record of my internship activities and continuously improve my Python programming and problem-solving skills.
+This repository serves as my professional learning portfolio throughout the internship.
 
-For every mentor session, I will:
+It includes:
 
-- 📺 Watch and understand the YouTube lecture
-- 📝 Take structured notes
-- 💻 Complete assigned homework
-- 🔄 Practice every concept using multiple examples
-- 🚀 Build mini and major projects
-- 📋 Review the YouTube video professionally
-- 📤 Push daily progress to GitHub
+- 📘 Homework
+- 💻 Practice Programs
+- 🚀 Mini Projects
+- 📝 Learning Notes
+- 🎥 YouTube Learning Reviews
+- 📚 Technical Documentation
 
-This repository will grow throughout the internship and serve as my personal learning portfolio.
+The goal is to continuously improve my Python programming skills while preparing for real-world AI Engineering projects.
 
 ---
 
 # 📂 Repository Structure
 
-```
-Python_Class/
+```text
+python_for_agentic_ai/
 │
-├── Homework/
-│   ├── Week_00/
-│   ├── Week_01/
+├── homework/
+│   ├── week_00_setup_first_run/
+│   ├── week_01_data_variables/
+│   ├── week_02_decision_and_repetition/
 │   └── ...
 │
-├── Practice/
-│   ├── Week_00/
-│   ├── Week_01/
+├── practice/
+│   ├── week_00/
+│   ├── week_01/
 │   └── ...
 │
-├── Projects/
-│   ├── Mini_Projects/
-│   └── Major_Projects/
+├── projects/
+│   ├── mini_projects/
+│   └── major_projects/
 │
-├── YouTube_Reviews/
-│   ├── Video_01/
-│   ├── Video_02/
+├── resources/
+│   ├── docs/
+│   ├── images/
+│   ├── pdfs/
+│   └── useful_links.md
+│
+├── youtube_reviews/
+│   ├── video_01/
+│   ├── video_02/
 │   └── ...
-│
-├── Resources/
-│   ├── Docs/
-│   ├── Images/
-│   ├── PDFs/
-│   └── Useful_Links.md
-│
-├── practice.py
-├── practice.ipynb
 │
 ├── README.md
 ├── requirements.txt
@@ -74,100 +77,103 @@ Python_Class/
 
 ---
 
-# 📚 Folder Description
+# 📘 Homework
 
-## 📘 Homework
+Contains mentor-assigned homework for every class.
 
-Contains all homework assigned by the mentor.
+Each week's folder may include:
 
-Each class contains:
-
-- Homework.py
-- Homework.ipynb
-- Notes.md
+- Python Programs
+- Jupyter Notebooks
+- Markdown Notes
 
 ---
 
-## 💻 Practice
+# 💻 Practice
 
-Contains additional practice beyond homework.
+Contains additional coding practice beyond homework.
 
-This includes:
+Topics include:
 
-- Multiple solutions
-- Logic-building exercises
-- Different approaches
-- Math-based programming
-- Function practice
-- Extra examples
+- Logic Building
+- Loops
+- Conditional Statements
+- Functions
+- Problem Solving
+- Pattern Programs
+- Number Programs
+- String Programs
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-Contains all internship projects.
+This folder contains all internship projects.
 
 ### Mini Projects
 
-Small projects assigned during learning.
+Small applications built while learning Python.
 
 ### Major Projects
 
-Complete applications developed during the internship.
+Real-world projects developed during the internship.
 
 ---
 
-## 🎥 YouTube Reviews
+# 🎥 YouTube Reviews
 
-Each mentor video has its own review folder containing:
+Every learning video has its own review.
+
+Each review includes:
 
 - Summary
-- Review
-- Homework
+- Key Concepts
+- Practical Learnings
 - Questions
-
-The review focuses on:
-
-- Content clarity
-- Code explanation
-- Examples
-- Suggestions for improvement
-- Personal learning notes
+- Personal Notes
 
 ---
 
-## 📁 Resources
+# 📚 Resources
 
-Stores useful learning materials such as:
+Contains personal learning materials including:
 
-- PDFs
-- Images
 - Documentation
-- Useful Links
+- Images
+- PDFs
+- Useful References
+
+> **Note:** Some personal learning resources may be excluded from this public repository using `.gitignore`.
 
 ---
 
-# 📅 Daily Learning Workflow
+# 📅 Learning Workflow
 
-Every class follows this workflow:
-
-```
-Watch YouTube Video
-        ↓
+```text
+Watch Lecture
+      │
+      ▼
 Understand Concepts
-        ↓
+      │
+      ▼
 Take Notes
-        ↓
+      │
+      ▼
 Complete Homework
-        ↓
-Practice Multiple Examples
-        ↓
-Build Mini Project (if assigned)
-        ↓
-Write YouTube Review
-        ↓
+      │
+      ▼
+Practice Programs
+      │
+      ▼
+Build Projects
+      │
+      ▼
+Review Learning
+      │
+      ▼
 Commit Changes
-        ↓
+      │
+      ▼
 Push to GitHub
 ```
 
@@ -175,61 +181,84 @@ Push to GitHub
 
 # 🎯 Learning Goals
 
-During this internship I aim to:
-
-- Master Python fundamentals
-- Improve programming logic
-- Write clean and readable code
-- Practice every concept with multiple examples
-- Build real-world Python projects
-- Learn Git & GitHub professionally
-- Develop strong debugging skills
-- Learn the foundations of Agentic AI
-- Build a professional developer portfolio
+- Master Python Fundamentals
+- Improve Problem-Solving Skills
+- Write Clean & Readable Code
+- Build Real-World Projects
+- Learn Git & GitHub
+- Learn Software Development Best Practices
+- Understand Agentic AI Concepts
+- Build an Industry-Ready Portfolio
 
 ---
 
 # 🛠 Technologies
 
+### Programming
+
 - Python
+- SQL
+
+### Development Tools
+
+- Cursor IDE
+- VS Code
 - Jupyter Notebook
+
+### Version Control
+
 - Git
 - GitHub
-- Markdown
-- Cursor IDE
 
-Future technologies that will be added:
+### Markup
+
+- Markdown
+
+### Upcoming Technologies
 
 - FastAPI
+- Streamlit
 - LangChain
 - LangGraph
 - RAG
 - MCP
 - AI Agents
-- Streamlit
 
 ---
 
-# 📌 Repository Rules
+# 📌 Repository Guidelines
 
 - Follow a clean folder structure.
-- Complete homework before starting new topics.
+- Complete homework before moving to the next topic.
 - Practice every concept with multiple examples.
-- Push updates to GitHub regularly.
 - Write meaningful commit messages.
-- Keep notes in Markdown.
+- Keep documentation updated.
 - Never commit API keys or secrets.
-- Keep code clean, readable, and well-documented.
+- Maintain clean and readable code.
 
 ---
 
 # 📈 Current Status
 
-**Internship Status:** 🟢 Active
+| Status | Progress |
+|---------|----------|
+| Internship | 🟢 Active |
+| Python Learning | 🟢 In Progress |
+| GitHub Portfolio | 🟢 Under Development |
+| AI Learning | 🟢 Ongoing |
 
-**Repository Status:** Under Continuous Development
+---
 
-**Learning Mode:** Daily Practice & Continuous Improvement
+# 🌱 Current Focus
+
+- Python Programming
+- Object-Oriented Programming
+- Problem Solving
+- Git & GitHub
+- FastAPI
+- LangChain
+- LangGraph
+- Agentic AI
 
 ---
 
@@ -237,21 +266,33 @@ Future technologies that will be added:
 
 > **Learn → Practice → Build → Review → Improve → Repeat**
 
-I believe consistent practice and real-world projects are the best way to master Python and become an industry-ready Agentic AI Engineer.
+---
+
+# 📬 Connect With Me
+
+**GitHub**
+
+https://github.com/anshgagai-dotcom
+
+**LinkedIn**
+
+(Add your LinkedIn Profile)
 
 ---
 
-# 🙏 Acknowledgement
+# ⭐ Acknowledgement
 
-This repository is maintained as part of my **Python for Agentic AI**.
+This repository is maintained as part of my **Python for Agentic AI Internship**.
 
-Special thanks to my mentor for guiding me throughout this learning journey.
+I sincerely thank my mentor for their guidance, support, and continuous encouragement throughout this learning journey.
 
 ---
 
-# 👤 Author
+## 👨‍💻 Author
 
 **Ansh Raju Gandhare**
 
-**Python for Agentic AI**
+**Python for Agentic AI Intern**
+
+*"Consistency beats intensity. Build every day."* 🚀
 
