@@ -38,7 +38,7 @@ print(f"Sum of Odd Numbers = {total}")"""
 
 
 #5
-"""total = 0
+"""total = 5
 i = 1
 
 while i <= 100:

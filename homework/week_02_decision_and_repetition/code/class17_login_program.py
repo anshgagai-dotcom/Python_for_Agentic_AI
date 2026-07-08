@@ -14,10 +14,10 @@ password = input("Password: ")
 
 if username != "admin":
     print("Incorrect Username")
-elif password != "1234":
+elif password != "ansh":
     print("Incorrect Password")
 else:
-    print("Login Successful")"""    
+    print("Login Successful")"""
 
 
 #3
@@ -35,7 +35,7 @@ while attempt < 3:
         print("Wrong Password")
 
 if attempt == 3:
-    print("Account Locked")"""   
+    print("Account Locked")""" 
 
 
 #4

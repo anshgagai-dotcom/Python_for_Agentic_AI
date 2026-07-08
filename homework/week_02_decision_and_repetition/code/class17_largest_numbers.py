@@ -1,4 +1,4 @@
-#1
+#1                                                   
 """a = int(input("A: "))
 b = int(input("B: "))
 c = int(input("C: "))
@@ -53,10 +53,11 @@ else:
     if b > c:
         print(f"{b} is largest")
     else:
-        print(f"{c} is largest")"""   
+        print(f"{c} is largest")"""
 
 
- #5        
+
+#5        
 """a = int(input("A: "))
 b = int(input("B: "))
 c = int(input("C: "))
