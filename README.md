@@ -242,7 +242,6 @@ Push to GitHub
 
 | Status | Progress |
 |---------|----------|
-| Internship | 🟢 Active |
 | Python Learning | 🟢 In Progress |
 | GitHub Portfolio | 🟢 Under Development |
 | AI Learning | 🟢 Ongoing |
@@ -276,7 +275,8 @@ https://github.com/anshgagai-dotcom
 
 **LinkedIn**
 
-(Add your LinkedIn Profile)
+https://www.linkedin.com/in/ansh-gandhare-709549264
+
 
 ---
 
