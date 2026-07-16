@@ -1,0 +1,63 @@
+# cfg["theme"] = "light"  # TypeError: read-only
+# Using .copy()
+
+
+
+#1
+"""a = [1, 2, 3]
+
+b = a.copy()
+
+b.append(4)
+
+print(a)
+print(b)"""
+
+
+
+#2
+"""numbers = [10, 20, 30]
+
+copy_numbers = numbers.copy()
+
+copy_numbers[0] = 100
+
+print(numbers)
+print(copy_numbers)"""
+
+
+
+#3
+"""fruits = ["Apple", "Banana", "Mango"]
+
+new_fruits = fruits.copy()
+
+new_fruits.remove("Banana")
+
+print(fruits)
+print(new_fruits)"""
+
+
+
+
+#4
+"""colors = ["Red", "Blue"]
+
+new_colors = colors.copy()
+
+new_colors.insert(1, "Green")
+
+print(colors)
+print(new_colors)"""
+
+
+
+#5
+"""numbers = [5, 10, 15]
+
+copy_numbers = numbers.copy()
+
+copy_numbers.clear()
+
+print(numbers)
+print(copy_numbers)"""

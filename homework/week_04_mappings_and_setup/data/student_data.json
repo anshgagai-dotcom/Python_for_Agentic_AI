@@ -1,0 +1,33 @@
+
+           {
+
+                        "kushi": {  
+                                    "Bio": {"sem1": 70, "sem2": 78},
+                                    "che": {"sem1": 97, "sem2": 88},
+                                    "phy": {"sem1": 60, "sem": 90}, 
+                                    "math":{"sem1": 85, "sem2": 67}
+                                },
+                        "ram": {
+                                    "Bio": {"sem1": 70, "sem2": 78},
+                                    "che": {"sem1": 97, "sem2": 88},
+                                    "phy": {"sem1": 60, "sem": 90}, 
+                                    "math":{"sem1": 85, "sem2": 67}
+                                },
+
+                        "sham": {
+                                    "Bio": {"sem1": 70, "sem2": 78},
+                                    "che": {"sem1": 97, "sem2": 88},
+                                    "phy": {"sem1": 60, "sem": 90}, 
+                                    "math":{"sem1": 85, "sem2": 67}
+                                },
+
+                        "golu": {
+                                    "Bio": {"sem1": 70, "sem2": 78},
+                                    "che": {"sem1": 97, "sem2": 88},
+                                    "phy": {"sem1": 60, "sem": 90}, 
+                                    "math":{"sem1": 85, "sem2": 67}
+
+                                }
+
+            } 
+
