@@ -1,0 +1,2 @@
+Hello, You are my first file.
+This test append by append mode
